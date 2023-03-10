@@ -34,9 +34,11 @@ h1 {
     color: hsl(218, 44%, 22%);
     font-size: 21px;
     font-weight: 700;
+    margin: 0 25px;
 }
 
 p {
     color: hsl(220, 15%, 55%);
     font-weight: 400;
+    margin: 15px 30px;
 }
