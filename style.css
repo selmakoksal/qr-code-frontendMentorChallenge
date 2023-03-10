@@ -1,1 +1,23 @@
 @import url("https://fonts.google.com/specimen/Outfit#standard-styles");
+
+* {
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 15px;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-size: 21px;
+    font-weight: 700;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+}
